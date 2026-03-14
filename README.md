@@ -1,1 +1,11 @@
-# repo-template
+
+  # Order Management App
+
+  This is a code bundle for Order Management App. The original project is available at https://www.figma.com/design/QoB6A1klWF9HS3xmLXyuUD/Order-Management-App.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
